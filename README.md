@@ -11,7 +11,7 @@ A practical compliance program built around Article 16 of the EU AI Act, which s
 
 ## What's Inside
 
-📄 **[EU-AI-Act-Article-16-Provider-Compliance-Program.md](EU-AI-Act-Article-16-Provider-Compliance-Program.md)** — the full program: the official Article 16 text, a Mermaid lifecycle diagram separating pre-market from post-market obligations, a 12-row obligation checklist, a RACI matrix, an evidence register, a non-compliance risk table, and a final governance recommendation.
+📄 The full program: the official Article 16 text, a Mermaid lifecycle diagram separating pre-market from post-market obligations, a 12-row obligation checklist, a RACI matrix, an evidence register, a non-compliance risk table, and a final governance recommendation.
 
 ## At a Glance
 
