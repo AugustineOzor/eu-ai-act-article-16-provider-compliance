@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="EU AI Act Article 16 High-Risk AI Provider Compliance Program banner" width="100%">
+  <img width="2400" height="600" alt="banner" src="https://github.com/user-attachments/assets/e296fd6b-0a44-4f33-aec7-346e52c37889" />
+
 </p>
 
 # EU AI Act Article 16 — High-Risk AI Provider Compliance Program
